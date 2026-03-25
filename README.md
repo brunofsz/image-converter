@@ -60,9 +60,8 @@ Execute o aplicativo:
 python app.py
 ```
 
----
 
-## 📦 Gerar o executável (.exe)
+##  Gerar o executável (.exe)
 
 Caso queira gerar o executável da aplicação:
 
@@ -75,3 +74,12 @@ O executável será gerado dentro da pasta:
 ```
 dist/
 ```
+
+## Preview
+
+
+
+
+
+<video src="https://github.com/user-attachments/assets/3a119816-7fc0-41f9-98e8-0688ce35466e" width="100%" controls autoplay loop muted></video>
+
